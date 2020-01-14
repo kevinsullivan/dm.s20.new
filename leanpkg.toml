@@ -1,0 +1,8 @@
+[package]
+name = "dm.s20"
+version = "0.1"
+lean_version = "3.4.2"
+path = "src"
+
+[dependencies]
+mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "e095e3065ca80a7cd9ac787034f6af07c73d2f21"}
